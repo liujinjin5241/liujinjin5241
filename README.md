@@ -5,7 +5,8 @@
 - 👯 I am 21 years old.
 - 🤔 I am a student at DCU.
 - ✨ I am learning AI.
-- 📫 Nice to meet you.
+- 🔭 Nice to meet you.
+- 📫 liujinjin5241@gmail.com
   
 <!--
 **liujinjin5241/liujinjin5241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
