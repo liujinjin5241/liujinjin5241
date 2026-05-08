@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-🔭 My name is liujinjin.
-⚡ I come from China.
-👯 I am 21 years old.
-🤔 I am a student at DCU.
-📫 Nice to meet you.
+-🔭 My name is liujinjin.
+-⚡ I come from China.
+-👯 I am 21 years old.
+-🤔 I am a student at DCU.
+-✨ I am learning AI.
+-📫 Nice to meet you.
 <!--
 **liujinjin5241/liujinjin5241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 👯 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- C Pronouns: ...
 - ⚡ Fun fact: ...
 -->
